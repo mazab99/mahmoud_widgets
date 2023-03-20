@@ -21,6 +21,8 @@ MahmoudWidgets.ratingWidget(
   onRated: (int? value) {},
  ),
 ```
+![Screen Shot 2023-03-20 at 4 02 11 PM](https://user-images.githubusercontent.com/108914401/226363570-9329c3f7-ce79-4257-bc61-c477c38f2ebd.png)
+
 
 
 #### ❤Loved the utility? [Donate here](https://www.paypal.com/paypalme/abhishvekk).
