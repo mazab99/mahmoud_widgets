@@ -23,6 +23,10 @@ MahmoudWidgets.ratingWidget(
 ```
 
 
+#### ❤Loved the utility? [Donate here](https://www.paypal.com/paypalme/abhishvekk).
+#### 🚀Want to learn more about Flutter? [Checkout this out!](https://web.telegram.org/k/#@DartWFlutter)
+#### 💥DM me on Linkedin  [Follow here](https://www.linkedin.com/in/mazap64/)
+
 
 ## 🐛 Bugs/Requests
 
